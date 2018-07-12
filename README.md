@@ -23,7 +23,7 @@ fine tuned control of your interactions.</p>
 <ol start="2">
 <li>
 <p>Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)</p>
-<p><code>git clone https://github.com/coursefiles/angular2-reactive-forms-data-and-validation.git</code></p>
+<p><code>git clone https://github.com/vidhuamit0606/Angular-2-Forms--Data-Binding-and-Validation.git</code></p>
 </li>
 <li>
 <p>CD to the folder</p>
